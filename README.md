@@ -5,7 +5,7 @@ Hello, I'm Grzegorz Aleksander Klementowski, a Master of Engineering specialized
 ## 🚀 About Me
 
 - 👨‍💻 I'm currently focused on advancing my career in information systems management.
-- 🌱 I'm learning SQL and database management to enhance my employability as an entry-level professional.
+- 🌱 I'm learning SQL and database management to enhance my employability as an mid-level professional.
 - 🔭 My goal is to continuously improve my programming and data analysis skills.
 
 ## 🔧 Technologies and Tools
