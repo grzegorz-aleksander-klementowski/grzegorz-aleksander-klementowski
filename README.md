@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hello, I'm Grzegorz Aleksander Klementowski, a Master of Engineering specialized in Information Systems and Networks. Below you will find some of my projects showcasing my skills and passion for creating innovative technology solutions.
+Hello, I'm Grzegorz Aleksander Klementowski, a Master of Engineering specialized in Information Systems. Below you will find some of my projects showcasing my skills and passion for creating innovative technology solutions.
 
 ## 🚀 About Me
 
