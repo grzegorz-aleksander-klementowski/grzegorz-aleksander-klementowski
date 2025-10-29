@@ -23,28 +23,10 @@ Rust-inclined backend engineer combining disciplined software craft with informa
 - **Air Trails Ticketing Toolkit** (T-SQL): Stored procedures managing ticket creation, promotion codes, and route completeness with throttling, validation, and diagnostic logging for SQL Server deployments.
 
 ## Skills & Tools
-- **Languages:** Rust, C++, C#, PHP, JavaScript, HTML/CSS, Bash, VBA, T-SQL (MariaDB, MS SQL Server)
+- **Languages:** Rust, C++, HTML/CSS, Bash, VBA, T-SQL (MariaDB, MS SQL Server)
 - **Ecosystem:** Linux (Debian/Sparky), NeoVim, WezTerm, fish shell, Git (GPG-signed commits), rsync, borg, gocryptfs
 - **Frameworks & Libraries:** Tokio async stack, `cqrs-es`, `serde`, `clap`, `rand`, Bootstrap 4/5, JQuery
 - **Practices:** TDD, GitHub Actions CI/CD, event modelling, domain-driven design, Agile/Scrum/Kanban facilitation, BPM & process analysis
-
-## Professional Path
-- **Consultant, Information Flow** · Biblioteka i Centrum Kultury Wojcieszowa (2022–2023) — designed and implemented information management systems, optimised database processes, and streamlined internal communication.
-- **Information Systems Manager** · Kubex (2019–2020) — coordinated teams, delivered VBA/SQL tooling, and improved data-driven decision flows across departments.
-- **Web Developer & Online Marketing** · Ulensja (2019) — built custom sites (HTML, CSS, PHP, JS, MySQL, WordPress) and executed SEO/SEM campaigns.
-
-### Education
-- **M.Eng. Information Systems** · WSIiZ „Copernicus” Wrocław — graduated with honours (excellent)
-- **B.Sc. Information Systems Management** · Uniwersytet Nysa (Czech Republic, Poland, Germany track)
-- **MSc Management (not completed)** · Middlesex University, London
-
-## Languages
-- Polish (native) · English (C1) · Czech (A2) · German (A1) 
-
-## Principles
-- Merge faith, reason, and software craft: Catholic, Latin civilisational roots, stoic discipline.
-- Prefer minimal, transparent tooling (Linux + terminal) and self-reliant solutions over heavy frameworks.
-- Build systems that outlive trends—modular architecture, clear documentation, and long-term stewardship.
 
 ## Connect
 - Email: [dev@klementowski.eu](mailto:dev@klementowski.eu) / [grzegorz.aleksander@klementowski.pl](mailto:dev@klementowski.eu)
