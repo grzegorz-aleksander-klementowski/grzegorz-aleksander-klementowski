@@ -31,7 +31,7 @@ Rust-inclined backend engineer combining disciplined software craft with informa
 
 ## Connect
 - Email: [dev@klementowski.eu](mailto:dev@klementowski.eu) / [grzegorz.aleksander@klementowski.pl](mailto:dev@klementowski.eu)
-- Website: [grzegorz-aleksander.klementowski.pl](https://rust.klementowski.eu)
+- Website: [rust.klementowski.pl](https://rust.klementowski.eu)
 - GitHub: [github.com/grzegorz-aleksander-klementowski](https://github.com/grzegorz-aleksander-klementowski)
 
 ⭐ Explore the repositories, open an issue if you want to collaborate, and feel free to star projects that resonate with you.
