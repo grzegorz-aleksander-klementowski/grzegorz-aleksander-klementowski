@@ -1,5 +1,5 @@
 # Grzegorz Aleksander Klementowski — Rust & Decentralized Information Systems Engineer
-[**GPG 🔑**](https://github.com/grzegorz-aleksander-klementowski.gpg))
+[**GPG 🔑**](https://github.com/grzegorz-aleksander-klementowski.gpg)
 
 Rust-inclined backend engineer combining disciplined software craft with information systems management. I build reliable data flows for organisations, favour Linux-first tooling, and keep projects explainable, tested, and automated.
 
